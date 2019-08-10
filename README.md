@@ -21,6 +21,12 @@ git clone https://github.com/gasvn/Res2Net.git
 
 from res2net import res2net50
 model = res2net50(pretrained=True)
+
+```
+Input image should be normalized as follows:
+```
+normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
+                                  std=[0.229, 0.224, 0.225])
 ```
 (By default, the model will be downloaded automatically.
 If the default download link is not available, please refer to the Download Link listed on **Pretrained models**.)
