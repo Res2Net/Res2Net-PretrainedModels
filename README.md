@@ -46,6 +46,7 @@ If the default download link is not available, please refer to the Download Link
 
 The download link from Baidu Disk is now available. ([Baidu Disk](https://pan.baidu.com/s/1BP7X222ZPqOndbojwOPjkw) password: **vbix**)
 ## Applications
+- [Pose Estimation](https://github.com/gasvn/Res2Net-Pose-Estimation)
 - Instance segmentation (Coming soon)
 - Segmantic segmentation (Coming soon)
 - More applications will be released soon
@@ -60,3 +61,5 @@ If you find this work or code is helpful in your research, please cite:
   year={2019}
 }
 ```
+## Contact
+If you have any questions, feel free to E-mail me via: `shgao(at)live.com`
