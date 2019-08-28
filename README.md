@@ -60,7 +60,7 @@ If you find this work or code is helpful in your research, please cite:
 @article{gao2019res2net,
   title={Res2Net: A New Multi-scale Backbone Architecture},
   author={Gao, Shang-Hua and Cheng, Ming-Ming and Zhao, Kai and Zhang, Xin-Yu and Yang, Ming-Hsuan and Torr, Philip},
-  journal={TPAMI},
+  journal={IEEE TPAMI},
   year={2019}
 }
 ```
