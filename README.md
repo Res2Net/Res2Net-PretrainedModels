@@ -50,7 +50,8 @@ The download link from Baidu Disk is now available. ([Baidu Disk](https://pan.ba
 ## Applications
 - [Pose Estimation](https://github.com/gasvn/Res2Net-Pose-Estimation)
 - [Salient object detection](https://github.com/gasvn/Res2Net-PoolNet)
-- Instance segmentation (Coming soon)
+- [Instance segmentation](https://github.com/gasvn/Res2Net-maskrcnn)
+- [Object detection](https://github.com/gasvn/Res2Net-maskrcnn)
 - Segmantic segmentation (Coming soon)
 - More applications will be released soon
 
