@@ -1,5 +1,7 @@
 # Res2Net
 The official pytorch implemention of the paper ["Res2Net: A New Multi-scale Backbone Architecture"](https://arxiv.org/pdf/1904.01169.pdf)
+
+Our paper is accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 ## Introduction
 We propose a novel building block for CNNs, namely Res2Net, by constructing hierarchical residual-like
 connections within one single residual block. The Res2Net represents multi-scale features at a granular level and increases the range
@@ -58,7 +60,7 @@ If you find this work or code is helpful in your research, please cite:
 @article{gao2019res2net,
   title={Res2Net: A New Multi-scale Backbone Architecture},
   author={Gao, Shang-Hua and Cheng, Ming-Ming and Zhao, Kai and Zhang, Xin-Yu and Yang, Ming-Hsuan and Torr, Philip},
-  journal={arXiv preprint arXiv:1904.01169},
+  journal={TPAMI},
   year={2019}
 }
 ```
