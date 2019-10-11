@@ -62,7 +62,8 @@ If you find this work or code is helpful in your research, please cite:
   title={Res2Net: A New Multi-scale Backbone Architecture},
   author={Gao, Shang-Hua and Cheng, Ming-Ming and Zhao, Kai and Zhang, Xin-Yu and Yang, Ming-Hsuan and Torr, Philip},
   journal={IEEE TPAMI},
-  year={2019}
+  year={2020},
+  doi={10.1109/TPAMI.2019.2938758}, 
 }
 ```
 ## Contact
