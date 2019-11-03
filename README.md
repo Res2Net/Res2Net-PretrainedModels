@@ -48,12 +48,7 @@ If the default download link is not available, please refer to the Download Link
 
 The download link from Baidu Disk is now available. ([Baidu Disk](https://pan.baidu.com/s/1BP7X222ZPqOndbojwOPjkw) password: **vbix**)
 ## Applications
-- [Pose Estimation](https://github.com/gasvn/Res2Net-Pose-Estimation)
-- [Salient object detection](https://github.com/gasvn/Res2Net-PoolNet)
-- [Instance segmentation](https://github.com/gasvn/Res2Net-maskrcnn)
-- [Object detection](https://github.com/gasvn/Res2Net-maskrcnn)
-- Segmantic segmentation (Coming soon)
-- More applications will be released soon
+Other applications such as Classification, Instance segmentation, Object detection, Semantic segmentation, Salient object detection, Class activation map,Tumor segmentation on CT scans can be found on https://mmcheng.net/res2net/ .
 
 ## Citation
 If you find this work or code is helpful in your research, please cite:
