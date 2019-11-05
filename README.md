@@ -46,7 +46,7 @@ If the default download link is not available, please refer to the Download Link
 | Res2NeXt-DLA-60    | 17.33M | 3.6 | 21.55 | 5.86 |[OneDrive](https://1drv.ms/u/s!AkxDDnOtroRPcjxCM0kAYHEaEd0?e=9WrBpj)
 
 #### News
-- Pretrained models are hosted to new servers [Download link](http://data.kaizhao.net/projects/res2net/index.html). You can load 
+- Pretrained models are hosted on new servers [Download link](http://data.kaizhao.net/projects/res2net/index.html). You can load 
 the pretrained model by using `pretrained = True`.
 
 The download link from Baidu Disk is now available. ([Baidu Disk](https://pan.baidu.com/s/1BP7X222ZPqOndbojwOPjkw) password: **vbix**)
