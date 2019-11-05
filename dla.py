@@ -15,8 +15,8 @@ __all__ = ['res2net_dla60']
 
 
 model_urls = {
-    'res2net_dla60': 'http://mc.nankai.edu.cn/projects/res2net/pretrainmodels/res2net_dla60_4s-d88db7f9.pth',
-    'res2next_dla60': 'http://mc.nankai.edu.cn/projects/res2net/pretrainmodels/res2next_dla60_4s-d327927b.pth',
+    'res2net_dla60': 'http://data.kaizhao.net/projects/res2net/pretrained/res2net_dla60_4s-d88db7f9.pth',
+    'res2next_dla60': 'http://data.kaizhao.net/projects/res2net/pretrained/res2next_dla60_4s-d327927b.pth',
 
 }
 
