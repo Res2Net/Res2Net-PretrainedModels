@@ -18,7 +18,7 @@ e.g. , ResNet, ResNeXt, BigLittleNet, and DLA. We evaluate the Res2Net block on 
 
 ## Useage
 ### Requirement
-PyTorch>=0.4.1 (PyTorch1.0 and 1.1 are supported.)
+PyTorch>=0.4.1
 ### Examples 
 ```
 git clone https://github.com/gasvn/Res2Net.git
