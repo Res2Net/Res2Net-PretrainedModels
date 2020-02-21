@@ -3,7 +3,7 @@ The official pytorch implemention of the paper ["Res2Net: A New Multi-scale Back
 
 Our paper is accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 ## Update
-2020.2.3: A series of pretrained models with more than 2% improvement on ImageNet top1 acc. compared with current version of Res2Net are going to be released within the next few weeks!
+2020.2.21: Pretrained models of Res2Net_v1b with more than 2% improvement on ImageNet top1 acc. compared with original version of Res2Net are released! Res2Net_v1b achieves much better performance when transfer to other tasks such as object detection and semantic segmentation.
 ## Introduction
 We propose a novel building block for CNNs, namely Res2Net, by constructing hierarchical residual-like
 connections within one single residual block. The Res2Net represents multi-scale features at a granular level and increases the range
@@ -46,8 +46,11 @@ If the default download link is not available, please refer to the Download Link
 | Res2NeXt-50        | 24.67M | 4.2 | 21.76 | 6.09 |[OneDrive](https://1drv.ms/u/s!AkxDDnOtroRPcWlWLXBuKxma7DQ?e=mt4dQf)
 | Res2Net-DLA-60     | 21.15M | 4.2 | 21.53 | 5.80 |[OneDrive](https://1drv.ms/u/s!AkxDDnOtroRPbWAqdcatece24vs?e=t3shXH)
 | Res2NeXt-DLA-60    | 17.33M | 3.6 | 21.55 | 5.86 |[OneDrive](https://1drv.ms/u/s!AkxDDnOtroRPcjxCM0kAYHEaEd0?e=9WrBpj)
+| **Res2Net-v1b-50** | 25.72M | 4.5 | 19.73 | 4.96 |[Link](https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net50_v1b_26w_4s-3cf99910.pth)
+| **Res2Net-v1b-101**| 45.23M | 8.3 | 18.77 | 4.64 |[Link](https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net101_v1b_26w_4s-0812c246.pth)
 
 #### News
+- Res2Net_v1b is now available.
 - Pretrained models are hosted on new servers [Download link](http://data.kaizhao.net/projects/res2net/index.html). You can load 
 the pretrained model by using `pretrained = True`.
 
