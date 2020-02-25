@@ -11,7 +11,7 @@ connections within one single residual block. The Res2Net represents multi-scale
 of receptive fields for each network layer. The proposed Res2Net block can be plugged into the state-of-the-art backbone CNN models,
 e.g. , ResNet, ResNeXt, BigLittleNet, and DLA. We evaluate the Res2Net block on all these models and demonstrate consistent performance gains over baseline models.
 <p align="center">
-	<img src="figures/res2net_structure.png" alt="Sample"  width="500">
+	<img src="https://mftp.mmcheng.net/imgs800/19Res2Net.jpg" alt="Sample"  width="500">
 	<p align="center">
 		<em>Res2Net module</em>
 	</p>
