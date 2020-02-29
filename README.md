@@ -52,8 +52,7 @@ If the default download link is not available, please refer to the Download Link
 
 #### News
 - Res2Net_v1b is now available.
-- Pretrained models are hosted on new servers [Download link](http://data.kaizhao.net/projects/res2net/index.html). You can load 
-the pretrained model by using `pretrained = True`.
+- You can load the pretrained model by using `pretrained = True`.
 
 The download link from Baidu Disk is now available. ([Baidu Disk](https://pan.baidu.com/s/1BP7X222ZPqOndbojwOPjkw) password: **vbix**)
 ## Applications
