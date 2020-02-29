@@ -8,12 +8,12 @@ __all__ = ['Res2Net', 'res2net50']
 
 
 model_urls = {
-    'res2net50_26w_4s': 'http://data.kaizhao.net/projects/res2net/pretrained/res2net50_26w_4s-06e79181.pth',
-    'res2net50_48w_2s': 'http://data.kaizhao.net/projects/res2net/pretrained/res2net50_48w_2s-afed724a.pth',
-    'res2net50_14w_8s': 'http://data.kaizhao.net/projects/res2net/pretrained/res2net50_14w_8s-6527dddc.pth',
-    'res2net50_26w_6s': 'http://data.kaizhao.net/projects/res2net/pretrained/res2net50_26w_6s-19041792.pth',
-    'res2net50_26w_8s': 'http://data.kaizhao.net/projects/res2net/pretrained/res2net50_26w_8s-2c7c9f12.pth',
-    'res2net101_26w_4s': 'http://data.kaizhao.net/projects/res2net/pretrained/res2net101_26w_4s-02a759a1.pth',
+    'res2net50_26w_4s': 'https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net50_26w_4s-06e79181.pth',
+    'res2net50_48w_2s': 'https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net50_48w_2s-afed724a.pth',
+    'res2net50_14w_8s': 'https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net50_14w_8s-6527dddc.pth',
+    'res2net50_26w_6s': 'https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net50_26w_6s-19041792.pth',
+    'res2net50_26w_8s': 'https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net50_26w_8s-2c7c9f12.pth',
+    'res2net101_26w_4s': 'https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net101_26w_4s-02a759a1.pth',
 }
 
 
