@@ -8,7 +8,7 @@ import torch.utils.model_zoo as model_zoo
 
 __all__ = ['res2next50']
 model_urls = {
-    'res2next50': 'http://data.kaizhao.net/projects/res2net/pretrained/res2next50_4s-6ef7e7bf.pth',
+    'res2next50': 'https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2next50_4s-6ef7e7bf.pth',
 }
 
 class Bottle2neckX(nn.Module):
