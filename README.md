@@ -3,7 +3,8 @@ The official pytorch implemention of the paper ["Res2Net: A New Multi-scale Back
 
 Our paper is accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 ## Update
-- 2020.2.24 Our Res2Net_v1b achieves a considerable performance gain on mmdetection compared with existing backbone models. We will release our code soon.
+- 2020.2.24 Our Res2Net_v1b achieves a considerable performance gain on mmdetection compared with existing backbone models.
+We have released our code on: https://github.com/Res2Net/mmdetection
 - 2020.2.21: Pretrained models of Res2Net_v1b with more than 2% improvement on ImageNet top1 acc. compared with original version of Res2Net are released! Res2Net_v1b achieves much better performance when transfer to other tasks such as object detection and semantic segmentation.
 ## Introduction
 We propose a novel building block for CNNs, namely Res2Net, by constructing hierarchical residual-like
