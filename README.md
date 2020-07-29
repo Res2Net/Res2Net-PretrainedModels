@@ -3,6 +3,7 @@ The official pytorch implemention of the paper ["Res2Net: A New Multi-scale Back
 
 Our paper is accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 ## Update
+- 2019.7.29 The training code of Res2Net on ImageNet is released https://github.com/Res2Net/Res2Net-ImageNet-Training (non-commercial use only)
 - 2020.6.1 Res2Net is now in the official model zoo of the new deep learning framework [**Jittor**](https://github.com/Jittor/jittor).
 - 2020.5.21 Res2Net is now one of the basic bonebones in MMDetection v2 framework https://github.com/open-mmlab/mmdetection.
 Using MMDetection v2 with Res2Net achieves better performance with less computational cost.
