@@ -3,6 +3,7 @@ The official pytorch implemention of the paper ["Res2Net: A New Multi-scale Back
 
 Our paper is accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.
 ## Update
+- 2020.10.20 PaddlePaddle version Res2Net achieves 85.13% top-1 acc. on ImageNet: [PaddlePaddle Res2Net](https://github.com/PaddlePaddle/PaddleClas/blob/master/docs/en/advanced_tutorials/distillation/distillation_en.md).
 - 2020.8.21 Online demo for detection and segmentation using Res2Net is released: http://mc.nankai.edu.cn/res2net-det
 - 2020.7.29 The training code of Res2Net on ImageNet is released https://github.com/Res2Net/Res2Net-ImageNet-Training (non-commercial use only)
 - 2020.6.1 Res2Net is now in the official model zoo of the new deep learning framework [**Jittor**](https://github.com/Jittor/jittor).
