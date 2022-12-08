@@ -57,7 +57,7 @@ If the default download link is not available, please refer to the Download Link
 | Res2NeXt-DLA-60    | 17.33M | 3.6 | 21.55 | 5.86 |[OneDrive](https://1drv.ms/u/s!AkxDDnOtroRPcjxCM0kAYHEaEd0?e=9WrBpj)
 | **Res2Net-v1b-50** | 25.72M | 4.5 | 19.73 | 4.96 |[Link](https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net50_v1b_26w_4s-3cf99910.pth)
 | **Res2Net-v1b-101**| 45.23M | 8.3 | 18.77 | 4.64 |[Link](https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net101_v1b_26w_4s-0812c246.pth)
-| **Res2Net-v1b-200-SSLD**| 76.21M | 15.7 | 14.87 | 2.58 |[PaddlePaddleLink](https://paddle-imagenet-models-name.bj.bcebos.com/Res2Net200_vd_26w_4s_ssld_pretrained.tar)
+| **Res2Net-v1d-200-SSLD**| 76.21M | 15.7 | 14.87 | 2.58 |[PaddlePaddleLink](https://paddle-imagenet-models-name.bj.bcebos.com/Res2Net200_vd_26w_4s_ssld_pretrained.tar)
 
 #### News
 - Res2Net_v1b is now available.
