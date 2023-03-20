@@ -25,7 +25,7 @@ e.g. , ResNet, ResNeXt, BigLittleNet, and DLA. We evaluate the Res2Net block on 
 	</p>
 </p>
 
-## Useage
+## Usage
 ### Requirement
 PyTorch>=0.4.1
 ### Examples 
